@@ -1,12 +1,3 @@
-# Deep Learning
-This repository contains examples of deep learning projects I have completed. 
-
-# Deep Learning Assignment
-Deep_Learning_Assignment refers to a project completed at university, in which i compare various preset deep learning models and design one of my own. This included tuning hyperparameters and creating various layers. The paper submitted in conjunction with this code aimed to investigate the models, but the priority was to demonstrate my understanding of deep learning. The report can be found in this repository. 
-PLEASE do not plagiarise this document. It should be used for reference only. 
-The dataset used was the ISIC dataset with 9 categories of skin cancer. The models aim to classify these images. 
-Overall, i achieved 80% in this assignment.
-
 # 🧠 Deep Learning for Skin Cancer Classification
 
 ![Status](https://img.shields.io/badge/status-completed-green)
@@ -16,7 +7,10 @@ Overall, i achieved 80% in this assignment.
 
 This project develops a deep learning model to classify skin lesions using dermoscopic images from the **ISIC (International Skin Imaging Collaboration)** dataset. The goal is to support early detection of skin cancer and assist medical professionals with image-based diagnostics.
 
-> Developed as part of MSc Data Science coursework to demonstrate the application of CNNs in real-world medical imaging.
+> Deep_Learning_Assignment refers to a project completed at university, in which i compare various preset deep learning models and design one of my own. This included tuning hyperparameters and creating various layers. The paper submitted in conjunction with this code aimed to investigate the models, but the priority was to demonstrate my understanding of deep learning. The report can be found in this repository. 
+PLEASE do not plagiarise this document. It should be used for reference only. 
+The dataset used was the ISIC dataset with 9 categories of skin cancer. The models aim to classify these images. 
+Overall, i achieved 80% in this assignment.
 
 ## 🎯 Objectives
 
