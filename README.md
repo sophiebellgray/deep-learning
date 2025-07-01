@@ -32,12 +32,6 @@ This project develops a deep learning model to classify skin lesions using dermo
 - ✅ Training checkpoints and learning rate scheduling
 - ✅ Evaluation with accuracy, loss curves, and classification report
 
-## 🗃️ Folder Structure
-├── Deep_Learning_Assignment.ipynb # Main notebook with full pipeline
-├── assets/ # Sample images, model plots
-├── models/ # Saved model weights (optional)
-└── README.md
-
 ## 🛠️ Tech Stack
 
 - **Language**: Python
